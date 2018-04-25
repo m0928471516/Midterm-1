@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">APP01_105590002</string>
+    <string name="age">成績</string>
+    <string name="age_hint">輸入整數成績</string>
+    <string name="btn_ok">確定</string>
+    <string name="suggestion">建議：</string>
+    <string name="sug_not_hurry">輸入分數應介於[0..100]</string>
+    <string name="sug_get_married">A</string>
+    <string name="sug_find_couple">B</string>
+    <string name="number">成績:</string>
+    <string name="num">請輸入整數</string>
+</resources>
